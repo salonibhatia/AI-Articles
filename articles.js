@@ -183,7 +183,8 @@ description: "Scientists at EPFL, the Royal Netherlands Institute for Sea Resear
     title: "AI won’t replace psychologists, it will only make them better",
     description: "But if we learned anything from the Covid-19 pandemic, it is that interpersonal relationships are a fundamental human need. Therapists have reported a threefold increase in demand for psychological treatment since the onset of the pandemic. Psychologists, more than ever, are inundated by referrals and increased distress in their clients. Additionally, in mental health - unlike other areas of health - there is very minimal, if any, collection of objective and up-to-date data on the patient's condition and little to no ongoing monitoring of treatment progress. The question of whether the treatment helps the client reach their goals is also unanswered in systematic ways.",
     link: "https://www.calcalistech.com/ctech/articles/0,7340,L-3926820,00.html"
-  }
+  },
+  
 
 ]
   
