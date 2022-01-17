@@ -1,0 +1,97 @@
+body {
+  background-image: url("AI.jpg");
+  padding: 40px;
+}
+
+h1 {
+  text-align: center;
+font-family: 'Acme', sans-serif;
+  font-weight: bold;
+  font-size: 60px;
+ color: white ;
+  background-color:blue;
+}
+
+.post {
+  width: 280px;
+  margin: 5px;
+  padding: 20px;
+  background-color: white;
+  border-radius: 10px;
+  box-shadow: 1px 1px 0px 2px #333;
+  transition: 0.3s all ease;
+}
+
+.post:hover{
+  background-color: SkyBlue;
+}
+
+h3 {
+  font-family: 'Varela Round', sans-serif;
+  font-size: 24px;
+  font-weight: 600;
+}
+
+p {
+font-family: 'Gentium Book Basic', serif;
+}
+
+img {
+  width: 100%;
+  border-radius: 10px;
+}
+
+a {
+  display: inline-block;
+  width: 100%;
+  text-align: right;
+  text-decoration: none;
+  color: #c0392b;
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+button {
+  outline: none;
+  cursor: pointer;
+  border: 1px solid black;
+  background-color: DeepSkyBlue;
+  font-weight: bold;
+  padding: 10px;
+  font-family: 'Source Sans Pro', sans-serif;
+  color: purple;
+
+}
+
+
+.container{
+  max-width: 1000px;
+  margin:auto;
+  display:flex;
+  flex-direction:row;
+  flex-wrap:wrap;
+  justify-content:center;
+
+}
+.list-view{
+  flex-direction: row;
+  align-items: center;
+   
+}
+
+
+
+.list-view > .post{
+  max-width:800px;
+  width: 100%;
+  text-align: center;
+}
+
+.controls{
+  text-align:center;
+  border-radius: 50%;
+}
+
+.active{
+  background-color: MediumSlateBlue;
+}
+
